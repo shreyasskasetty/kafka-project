@@ -33,3 +33,7 @@ Implemented two scenarios to understand Kafka's workings:
 ## Conclusion
 
 This project helped me understand Kafka's fundamental concepts and how to implement them in Python. It's a step towards mastering Kafka for data streaming and processing applications.
+
+## Acknowledgement
+Thanks to Ranjan for making an amazing Tutorial on Kafka Fundamentals. The link to the course is given below:
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=F6PUQ3k6zmg)](https://www.youtube.com/watch?v=F6PUQ3k6zmg)
