@@ -36,4 +36,4 @@ This project helped me understand Kafka's fundamental concepts and how to implem
 
 ## Acknowledgement
 Thanks to Ranjan for making an amazing Tutorial on Kafka Fundamentals. The link to the course is given below:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=F6PUQ3k6zmg)](https://www.youtube.com/watch?v=F6PUQ3k6zmg)
+[![Youtube Tutorial on Kafka](https://img.youtube.com/vi/F6PUQ3k6zmg/0.jpg)](https://www.youtube.com/watch?v=F6PUQ3k6zmg)
