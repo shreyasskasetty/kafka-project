@@ -27,9 +27,8 @@ Implemented two scenarios to understand Kafka's workings:
 ### Running the Scenarios
 
 1. Make sure Kafka and Zookeeper services are running.
-2. Run the Python scripts for each scenario:
-   - `python single_broker_single_partition.py`
-   - `python single_broker_two_partitions.py`
+2. Run the Python script `python producer.py` to publish messages to the Topic
+4. Run the Python script `python consumer.py` to consume messages from the Topic
 
 ## Conclusion
 
