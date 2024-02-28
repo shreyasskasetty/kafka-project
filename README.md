@@ -8,6 +8,6 @@ Following are the concepts which I learned out of this Mini Project:
 2. Control Plane
   a. Zookeeper
 3. Data Plane:
-  a. Producer
-  b. Topics - Partitions
-  c. Consumer Groups
+   - Producer
+   - Topics - Partitions
+   - Consumer Groups
