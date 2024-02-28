@@ -1,0 +1,15 @@
+1. Run zookeeper
+cd /opt/kafka_2.13-3.6.1
+sudo bin/zookeeper-server-start.sh config/zookeeper.properties
+
+
+2. Run kafka server
+cd /opt/kafka_2.13-3.6.1
+sudo JMX_PORT=8004 bin/kafka-server-start.sh config/server.properties
+
+3. run Kafka Manager
+cd Documents/Softwares/CMAK/target/universal/cmak-3.0.0.7
+bin/cmak -Dconfig.file=conf/application.conf -Dhttp.port=8080
+
+create a cluster
+create a topic with certain number of partitions
